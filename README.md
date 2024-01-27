@@ -3,4 +3,4 @@ Developed a user-friendly Tic Tac Toe 2-player mobile app, enhancing the classic
 
 # Screenshots
 
-![Tic-Tac-Toe](https://github.com/NikitaDhomne/Tic-Tac-Toe/assets/102669357/a8e71863-562d-4cdc-a5b3-bf99b795944a)
+
