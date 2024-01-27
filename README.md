@@ -1,16 +1,5 @@
-# tic_tac_toe
+# Tic-Tac-Toe
+Developed a user-friendly Tic Tac Toe 2-player mobile app, enhancing the classic game experience. Implemented intuitive controls, smooth gameplay, and attractive UI design to provide an engaging and enjoyable interaction for players.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![Tic-Tac-Toe_1](https://github.com/NikitaDhomne/Tic-Tac-Toe/assets/102669357/811df0df-f875-4f0d-b1f8-1d3e75b906bb) 
